@@ -6,7 +6,7 @@
 name: Gillian Buijs
 
 # Short bio or description (displayed in the header)
-description: Software Engineer Java | Dart | Flutter
+description: Software Engineer from The Netherlands
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: GillianBuijs/gillianbuijs.github.io
+  github: # GillianBuijs/gillianbuijs.github.io
   instagram:
   linkedin:
   pinterest:
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:https://gillianbuijs.github.io/
+url: https://gillianbuijs.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
