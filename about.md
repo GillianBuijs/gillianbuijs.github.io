@@ -25,4 +25,4 @@ I started out as a Software Tester when I was 18. Manual testing was not somethi
 
 ### Contact me
 
-[email@domain.com](mailto:info@buijs.dev)
+[info@buijs.dev](mailto:info@buijs.dev)
