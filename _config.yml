@@ -9,7 +9,7 @@ name: Gillian Buijs
 description: Software Engineer from The Netherlands
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://github.com/GillianBuijs/gillianbuijs.github.io/blob/master/46005760e0544bcadaaee9b92387e8b8.png
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: # GillianBuijs/gillianbuijs.github.io
+  github: GillianBuijs/gillianbuijs.github.io
   instagram:
   linkedin:
   pinterest:
