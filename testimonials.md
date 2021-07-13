@@ -4,7 +4,6 @@ title: Testimonials
 permalink: /testimonials/
 ---
 
-### What others say
 
 <p>
 "I am happy to work with you, you are a great colleague and also a great person.
