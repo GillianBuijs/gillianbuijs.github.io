@@ -16,9 +16,9 @@ permalink: /about/
 * And so much more...!
 
 ### Tools I love:
-* Backend development with Java or Dart
+* Backend development with Java and/or Kotlin
 * Frontend development with Angular
-* Mobile development with Flutter or Kotlin
+* Mobile development with Flutter or Kotlin Multiplatform
 * Performance Testing with Gatling or JMeter
 
 ### Contact me
