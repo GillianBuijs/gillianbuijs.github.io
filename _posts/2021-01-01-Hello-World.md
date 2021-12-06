@@ -13,9 +13,9 @@ I am Gillian Buijs, a Software Developer based in The Netherlands. I love buildi
 * And so much more...!
 
 ### Tools I love:
-* Backend development with Java or Dart
+* Backend development with Java or Kotlin
 * Frontend development with Angular
-* Mobile development with Flutter or Kotlin
+* Mobile development with Flutter or Kotlin Multiplatform
 * Performance Testing with Gatling or JMeter
 
 ### Contact me
