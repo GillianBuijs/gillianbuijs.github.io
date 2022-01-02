@@ -3,7 +3,6 @@ layout: post
 title: Really write once: Klutter = Flutter + Kotlin Multiplatform
 ---  
 
-# Klutter
 Klutter is a framework and tool set which uses Flutter to create the frontend
 and Kotlin Multiplatform for the backend. The connective layer is generated
 by the Klutter framework. Klutter combines industry best practices
