@@ -8,8 +8,6 @@ and Kotlin Multiplatform for the backend. The connective layer is generated
 by the Klutter framework. Klutter combines industry best practices
 for everything from app design to CICD into a single cohesive framework.
 
-And I made it.
-
 ## Why I made Klutter
 Having worked with Flutter I can say I really like it. Dart was a breeze to learn coming from Java.
 Hot reload is the best thing since sliced bread, writing a native looking and feeling UI for iOS and
