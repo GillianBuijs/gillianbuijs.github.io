@@ -21,7 +21,7 @@ footer-links:
   email: info@buijs.dev
   facebook:
   flickr:
-  github: GillianBuijs
+  github: buijs-dev
   instagram:
   linkedin: gillian-buijs-765a32a3
   pinterest:
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://gillianbuijs.github.io/
+url: https://github.com/buijs-dev
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
