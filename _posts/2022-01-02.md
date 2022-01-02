@@ -52,5 +52,5 @@ make Flutter and KMP work together, but also add everything to publish an app to
 
 Klutter is in a pre-alpha stage meaning it is just getting started and a lot can/will change before
 it is production ready. Curious? Have a look at the source and documentation:
-[Klutter]([https://github.com/buijs-dev/klutter]). The next articles will discuss how Klutter works
+[Klutter](https://github.com/buijs-dev/klutter). The next articles will discuss how Klutter works
 and what milestones are expected for the near future.
