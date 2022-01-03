@@ -1,5 +1,3 @@
-# Klutter
-
 I made the Klutter Framework to make crossplatform app development easier.
 Klutter is a framework and tool set which uses Flutter to create the frontend
 and Kotlin Multiplatform for the backend. The connective layer is generated
