@@ -20,8 +20,8 @@ freelance software developer. </p> <p> In 2021 I decided to do more mobile devel
 * And so much more...!
 
 ### Tools I love:
-* Backend development with Java and/or Kotlin
-* Frontend development with Angular
+* Backend development with Java, Kotlin or Dart
+* Frontend development with React or Angular
 * Mobile development with Flutter or Kotlin Multiplatform
 * Performance Testing with Gatling or JMeter
 
