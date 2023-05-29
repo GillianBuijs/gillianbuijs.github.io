@@ -14,7 +14,7 @@ freelance software developer. </p> <p> In 2021 I decided to do more mobile devel
 
 ### What can I do for you?
 * Freelance project work (remote or on-location)
-* Setup the technical environment of your startup
+* Set up the technical environment of your startup
 * Build an app for you, iOS and Android
 * Performance test your app
 * And so much more...!
